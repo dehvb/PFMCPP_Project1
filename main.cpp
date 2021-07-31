@@ -108,13 +108,13 @@ calculator.helpStudents();
 //  action 3:   requires a battery
 calculator.requireBattery();
 //  8)
-//  Noun:       amplifier
-//  action 1:   the amplifier amplifies the guitar
-amplifier.amplifyGuitar();
-//  action 2:   the amplifier distorts the signal
-amplifier.distortSignal();
-//  action 3:   the amplifier sounds good
-amplifier.soundGood();
+//  Noun:       speaker cabinet
+//  action 1:   the speaker cabinet receives a signal
+speakerCabinet.receieveSignal();
+//  action 2:   the speaker cabinet produces sound
+speakerCabinet.produceSound();
+//  action 3:   the speaker cabinet sounds blown out
+speakerCabinet.soundBlownOut();
 //  9)
 //  Noun:       tire
 //  action 1:   the tire turns fast
