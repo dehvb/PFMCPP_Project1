@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       fish
+//  action 1:   the fish swims
+fish.swim();
+//  action 2:   the fish eats algae
+fish.eatAlgae();
+//  action 3: the fish dives
+fish.dive();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       screen
+//  action 1:   the screen shows pictures
+screen.showPictures();
+//  action 2:   the screen flickers
+screen.flicker();
+//  action 3:   the screen turns black
+screen.turnBlack();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       apple
+//  action 1:   the apple provides vitamins
+apple.provideVitamins();
+//  action 2:   the apple falls from the tree
+apple.fallFromTree();
+//  action 3:   the apple causes an allergic reaction
+apple.causeAllergicReaction();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       water
+//  action 1:   the water quenches thirst
+water.quenchThirst();
+//  action 2:   the water makes the floor slippery
+water.makeFloorSlippery();
+//  action 3:   the water rises high
+water.riseHigh();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       plane
+//  action 1:   the plane flies
+plane.fly();
+//  action 2:   the plane carries passengers
+plane.carryPassengers();
+//  action 3:   the plane crashes
+plane.crash();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       lighter
+//  action 1:   the lighter provides fire
+lighter.provideFire();
+//  action 2:   the lighter lights a cigarette
+lighter.lightCigarette();
+//  action 3:   the lighter lights a candle
+lighter.lightCandle();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       calculator
+//  action 1:   the calculator solves a calculation
+calculator.solveCalculation();
+//  action 2:   the calculator helps students
+calculator.helpStudents();
+//  action 3:   requires a battery
+calculator.requireBattery();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       speaker cabinet
+//  action 1:   the speaker cabinet receives a signal
+speakerCabinet.receieveSignal();
+//  action 2:   the speaker cabinet produces sound
+speakerCabinet.produceSound();
+//  action 3:   the speaker cabinet sounds blown out
+speakerCabinet.soundBlownOut();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       tire
+//  action 1:   the tire turns fast
+tire.turnFast();
+//  action 2:   the tire turns slow
+tire.turnSlow();
+//  action 3: the tire expldoes
+tire.explode();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       dog
+//  action 1:   the dog runs
+dog.run();
+//  action 2:   the dog plays fetch
+dog.playFetch();
+//  action 3:   the dog barks
+dog.bark();
 
 
 #endif
